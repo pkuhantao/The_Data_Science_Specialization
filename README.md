@@ -1,2 +1,6 @@
-## This is a secondary heading
-### This is a tertiary heading
+## Data Science Specialization 
+
+
+* Users R
+* Nice courses
+* Goes from raw data to dat products
