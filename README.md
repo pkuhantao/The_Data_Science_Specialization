@@ -1,6 +1,6 @@
 ## Data Science Specialization 
 
 
-* Users R
+* Uses R
 * Nice courses
 * Goes from raw data to dat products
