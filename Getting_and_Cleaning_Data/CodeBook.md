@@ -25,6 +25,7 @@ Units:
 
 ### Study design
 Here are the steps of what "run_analysis.R" does:
+
 1. Read the data from both test and train set and merge them together
 2. Name all features and the activities
 3. Extract only the measurements on the mean and standard deviation for each measurement
